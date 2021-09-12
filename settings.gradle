@@ -1,0 +1,2 @@
+rootProject.name='CalorieCounter_app_by_command'
+include ':app'

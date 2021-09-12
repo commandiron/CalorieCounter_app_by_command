@@ -1,0 +1,32 @@
+ {
+   "foods": [
+
+      {
+         "id":"01",
+         "fooddescription": "Apple",
+         "portion size": "1 cup",
+         "calorie": "50"
+      },
+
+     {
+       "id":"02",
+       "fooddescription": "Avocado",
+       "portion size": "1 cup",
+       "calorie": "60"
+     },
+
+      {
+         "id":"03",
+         "fooddescription": "Banana",
+         "portion size": "1 cup",
+         "calorie": "75"
+      },
+
+     {
+         "id":"04",
+         "fooddescription": "Orange",
+         "portion size": "1 cup",
+         "calorie": "65"
+      }
+   ]
+}
